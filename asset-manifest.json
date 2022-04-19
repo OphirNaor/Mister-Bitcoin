@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Mister-Bitcoin/static/css/main.26afbd56.css",
+    "main.js": "/Mister-Bitcoin/static/js/main.764ed20b.js",
+    "static/js/787.b21525af.chunk.js": "/Mister-Bitcoin/static/js/787.b21525af.chunk.js",
+    "static/media/RobotoMono-Bold.ttf": "/Mister-Bitcoin/static/media/RobotoMono-Bold.1d29748c6ba7e786c050.ttf",
+    "static/media/RobotoMono-Regular.ttf": "/Mister-Bitcoin/static/media/RobotoMono-Regular.418a8f9f65ccad0918af.ttf",
+    "static/media/bg.png": "/Mister-Bitcoin/static/media/bg.22e5d54884675c26913c.png",
+    "static/media/Lato-Regular.ttf": "/Mister-Bitcoin/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
+    "static/media/Lato-Bold.ttf": "/Mister-Bitcoin/static/media/Lato-Bold.636be8de934918e38ed9.ttf",
+    "index.html": "/Mister-Bitcoin/index.html",
+    "main.26afbd56.css.map": "/Mister-Bitcoin/static/css/main.26afbd56.css.map",
+    "main.764ed20b.js.map": "/Mister-Bitcoin/static/js/main.764ed20b.js.map",
+    "787.b21525af.chunk.js.map": "/Mister-Bitcoin/static/js/787.b21525af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26afbd56.css",
+    "static/js/main.764ed20b.js"
+  ]
+}
