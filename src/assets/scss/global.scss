@@ -1,0 +1,50 @@
+// Externals
+
+// Setup
+@import "setup/variables";
+@import "setup/functions";
+@import "setup/mixins";
+@import "setup/typography";
+
+// Basics
+// @import "basics/typography";
+@import "basics/base";
+@import "basics/helpers";
+@import "basics/layout";
+@import "basics/modals";
+@import "basics/animations";
+
+// Pages
+@import "pages/HomePage";
+@import "pages/ContactDetailsPage";
+@import "pages/StatisticPage";
+@import "pages/ContactEdit";
+
+
+// Components
+@import "cmps/AppHeader";
+@import "cmps/ContactPreview";
+@import "cmps/ContactFilter";
+
+
+a.active,
+a.my-active {
+    color: darken($clr2, $amount: 30%);
+}
+
+
+
+.add-contact-btn {
+    position: fixed;
+    font-size: 2em;
+    transition: all .3s;
+    color: #fff;
+    // opacity: .9;
+    right: 3%;
+    bottom: 3vh;
+    cursor: pointer;
+
+    &:hover {
+        width: 3.5vw;
+    }
+}

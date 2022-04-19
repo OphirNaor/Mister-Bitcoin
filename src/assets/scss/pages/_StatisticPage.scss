@@ -1,0 +1,19 @@
+.statistic-page {
+    display: flex;
+    flex-direction: column;
+    padding-top: 1rem;
+    gap: 1rem;
+    font-weight: 700;
+    font-size: 25px;
+    color: $clr2;
+
+    >* {
+        width: 100%;
+    }
+}
+
+.chart-container {
+    margin-bottom: 70px;
+    background-color: rgb(119, 118, 118);
+    opacity: .9;
+}
